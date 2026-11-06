@@ -1,0 +1,46 @@
+
+body {
+    background-color: #eaf2ff;
+    font-family: Arial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    padding: 20px;
+}
+
+.profile {
+    background-color: white;
+    width: 350px;
+    padding: 25px;
+    border-radius: 15px;
+    text-align: center;
+    border: 2px solid #d6e4ff;
+}
+
+h1 {
+    color: #3156a3;
+}
+
+h3 {
+    color: #6a4c93;
+}
+
+p {
+    color: #555;
+    font-size: 15px;
+}
+
+button {
+    background-color: #4776e6;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #3156a3;
+}
